@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: tr_update
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Diana
+Implementation-Vendor-Id: com.test.Tr
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ starter-parent/tr_update/
+Created-By: Maven Integration for Eclipse
+
